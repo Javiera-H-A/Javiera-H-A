@@ -24,9 +24,7 @@ Talking about personal stuff :
 <img src="https://img.shields.io/badge/-Trello-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Figma-e535ab?style=flat&logo=postgresql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-NPM-787878?style=flat">
-<img src="https://img.shields.io/badge/-HTML-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-CSS-4285F4?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-Canva-000000?style=flat&logo=socket.io&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
