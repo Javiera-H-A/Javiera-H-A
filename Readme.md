@@ -19,7 +19,7 @@ Talking about personal stuff :
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Vue-white?style=flat&logo=vue&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="http://img.shields.io/badge/-Tailwind-black?style=flat&logo=materialui&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Figma-e535ab?style=flat&logo=postgresql&logoColor=FFFFFF">
