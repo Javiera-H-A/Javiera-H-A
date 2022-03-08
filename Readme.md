@@ -1,7 +1,7 @@
 ### ¡Hi there dear visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-👨‍💻 Front-end Developer | Chile 🇨�🇨🇱 | 22 years old 
+👨‍💻 Front-end Developer | Chile ❤️ | 22 years old 
 
 Talking about personal stuff :
 - ❤ My interests are to keep learning for help to increase the quantity of woman working on this tech world.
@@ -9,7 +9,7 @@ Talking about personal stuff :
 - ✋ Always Willing to help.
 - 👨🏽‍💻 I’m currently working on improve my techskills.
 - 💬 Talk to me about aliens and crazy theories about the world 👽.
-- 🥅 Goals 2022: live in my own apartment 💁🏽‍♀️, improve my english to advanced and travel to EEUU with holiday visa.
+- 🥅 Goals 2022: Live in my own apartment 💁🏽‍♀️, improve my english to advanced and travel to EEUU 🗽 .
 
 </br>
 
