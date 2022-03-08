@@ -21,11 +21,11 @@ Talking about personal stuff :
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/-Trello-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Figma-e535ab?style=flat&logo=postgresql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Trello-4DB33D?style=flat&logo=trello&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Figma-e535ab?style=flat&logo=figma&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-NPM-787878?style=flat">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Canva-000000?style=flat&logo=socket.io&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Canva-000000?style=flat&logo=canva&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
